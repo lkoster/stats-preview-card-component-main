@@ -23,5 +23,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/lkoster/stats-preview-card-component-main](https://github.com/lkoster/stats-preview-card-component-main)
+- Live Site URL: [https://lkoster.github.io/stats-preview-card-component-main/](https://lkoster.github.io/stats-preview-card-component-main/)
